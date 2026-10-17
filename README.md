@@ -141,7 +141,7 @@ $${\color{#ba1212}♫ㅤcurrentlyㅤlisteningㅤto...}$$
 </a>
 </p>
 
-$${\color{#8b2020}♡ㅤ───────ㅤ୨୧ㅤ───────ㅤ♡}$$
+$${\color{#8b2020}ㅤ───────ㅤ୨୧ㅤ───────ㅤ}$$
 
 <p align="center">
   <sub>
