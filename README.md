@@ -17,8 +17,6 @@ $${\color{#8b2020}───────ㅤ୨୧ㅤ───────}$$
 
 $${\color{#ba1212}clickㅤtheㅤlittleㅤdazzysㅤ!}$$
 
-<!-- CLICKABLE DAZAIS -->
-
 <p align="center">
 
 <a href="https://ruffledram.atabook.org/">
@@ -48,8 +46,6 @@ $${\color{#ba1212}clickㅤtheㅤlittleㅤdazzysㅤ!}$$
 $${\color{#8b2020}───────ㅤ୨୧ㅤ───────}$$
 
 $${\color{#ba1212}readㅤthese!}$$
-
-<!-- BYI -->
 
 <details>
 <summary>୨୧ byi</summary>
@@ -82,8 +78,6 @@ $${\color{#8b2020}───────ㅤ୨୧ㅤ───────}$$
 
 <br>
 
-<!-- DNI -->
-
 <details>
 <summary>dni</summary>
 
@@ -111,8 +105,6 @@ $${\color{#8b2020}───────ㅤ୨୧ㅤ───────}$$
 
 <br>
 
-<!-- OTHER -->
-
 <details>
 <summary>other</summary>
 
@@ -134,17 +126,7 @@ $${\color{#999999}discordㅤ:ㅤruffledram}$$
 
 $${\color{#8b2020}───────ㅤ୨୧ㅤ───────}$$
 
-<!-- PARTNER -->
-
 $${\color{#ba1212}myㅤmostㅤbelovedestt}$$
-
-<p align="center">
-<a href="https://github.com/raspberry-sprout">
-  <img src="https://64.media.tumblr.com/ed6970f87239a45b197444d3b9b09579/2293c8f54b151663-b5/s250x400/9a1e7cd6fd2551ec69a5e081d7afecae27b65956.gifv" width="135" alt="Dazai animated gif">
-</a>
-</p>
-
-<!-- SPOTIFY -->
 
 $${\color{#ba1212}♫ㅤcurrentlyㅤlisteningㅤto...}$$
 
