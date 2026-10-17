@@ -45,6 +45,10 @@ $${\color{#BA1212}read}ㅤ{\color{#C97882}these!}$$
 <details align="center">
 <summary align="center">🎀 $\color{#BA1212}{BYI}$</summary>
 
+$${\color{#BA1212}I'm}ㅤ{\color{#E05252}a}ㅤ{\color{#C97882}Dazai}ㅤ{\color{#C0C0C0}fictkin!}$$
+
+$${\color{#E05252}Doubles}ㅤ{\color{#BA1212}please}ㅤ{\color{#C97882}IWC.}$$
+
 $${\color{#E05252}I'm}ㅤ{\color{#C0C0C0}demi-pansexual}$$
 
 $${\color{#999999}I}ㅤ{\color{#C97882}like}ㅤ{\color{#BA1212}mirrorshipping/selfcest.}$$
