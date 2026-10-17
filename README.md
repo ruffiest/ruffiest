@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ruffledram&amp;label=mafia+lackeys;color=ba1212&amp;style=flat" alt="Profile views">
+</p>
+
+<p align="center">
 <img src="https://64.media.tumblr.com/b49aed428b774d076aaf08c5811884f1/83da786bc6469444-22/s500x750/3a96bfb9bb286c8a2157d6f8e5e2c0a5b5ef4fad.pnj" width="500" alt="Dazai">
 </p>
 
