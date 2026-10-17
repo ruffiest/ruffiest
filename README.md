@@ -111,16 +111,6 @@ $${\color{#8B2020}───────}ㅤ{\color{#E05252}୨୧}ㅤ{\color{#8B
 
 $${\color{#C97882}discord}ㅤ{\color{#C0C0C0}:}ㅤ{\color{#BA1212}ruffledram}$$
 
-<p>
-  $\color{#E05252}{main}$ $\color{#C0C0C0}{github}$ $\color{#999999}{:}$
-  <a href="https://github.com/rvffled">@rvffled</a>
-</p>
-
-<p>
-  $\color{#C97882}{guestbook}$ $\color{#999999}{:}$
-  <a href="https://ruffledram.atabook.org/">新book</a>
-</p>
-
 </details>
 
 <br>
