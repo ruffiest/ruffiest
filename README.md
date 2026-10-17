@@ -26,10 +26,6 @@ $${\color{#ba1212}clickㅤtheㅤlittleㅤdazzysㅤ!}$$
   <img src="https://64.media.tumblr.com/c1d063b96ca2afd3b3b956a2bfd0f1c1/83da786bc6469444-af/s250x400/e95d017172ae2eb25c1a59140fb9e34e4161cec2.pnj" width="95" alt="Main GitHub">
 </a>
 
-<a href="https://suturical.tumblr.com/post/772763047596113920/dazai-themed-graphics-rb-appreciated-f2u">
-  <img src="https://64.media.tumblr.com/cb14aea646c215cc1b31d61e64f689a0/83da786bc6469444-26/s250x400/e964e3d8f53784044193869f6738cad7aa76e151.pnj" width="95" alt="Graphics credits">
-</a>
-
 </p>
 
 <p align="center">
@@ -37,9 +33,7 @@ $${\color{#ba1212}clickㅤtheㅤlittleㅤdazzysㅤ!}$$
   <a href="https://ruffledram.atabook.org/">ata</a>
  　♡　
   <a href="https://github.com/rvffled">main</a>
- 　♡　
-  <a href="https://suturical.tumblr.com/post/772763047596113920/dazai-themed-graphics-rb-appreciated-f2u">image creds!</a>
-</sub>
+ 
 </p>
 
 $${\color{#8b2020}───────ㅤ୨୧ㅤ───────}$$
