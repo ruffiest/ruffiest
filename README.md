@@ -51,7 +51,7 @@ $${\color{#BA1212}read}ㅤ{\color{#C97882}these!}$$
 <details align="center">
 <summary align="center">🎀 $\color{#BA1212}{BYI}$</summary>
 
-$${\color{#E05252}I'm}ㅤ{\color{#C0C0C0}demi-pansexual}
+$${\color{#E05252}I'm}ㅤ{\color{#C0C0C0}demi-pansexual}$$
 
 $${\color{#999999}I}ㅤ{\color{#C97882}like}ㅤ{\color{#BA1212}mirrorshipping/selfcest.}$$
 
