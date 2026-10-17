@@ -19,7 +19,7 @@ $${\color{#ba1212}clickㅤtheㅤlittleㅤdazzysㅤ!}$$
 <p align="center">
 
 <a href="https://ruffledram.atabook.org/">
-  <img src="https://64.media.tumblr.com/11936107441b28e47f364761a7256516/83da786bc6469444-87/s500x750/9b9f117dd834f44564b6845522539c989d876028.pnj" width="95" alt="Atabook">
+  <img src="https://64.media.tumblr.com/cb14aea646c215cc1b31d61e64f689a0/83da786bc6469444-26/s250x400/e964e3d8f53784044193869f6738cad7aa76e151.pnj" width="95" alt="Atabook">
 </a>
 
 <a href="https://github.com/rvffled">
