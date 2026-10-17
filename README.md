@@ -127,6 +127,12 @@ $${\color{#8b2020}───────ㅤ୨୧ㅤ───────}$$
 
 $${\color{#ba1212}myㅤmostㅤbelovedestt}$$
 
+<p align="center">
+<a href="https://github.com/raspberry-sprout">
+  <img src="https://64.media.tumblr.com/ed6970f87239a45b197444d3b9b09579/2293c8f54b151663-b5/s250x400/9a1e7cd6fd2551ec69a5e081d7afecae27b65956.gifv" width="135" alt="Dazai animated gif">
+</a>
+</p>
+
 $${\color{#ba1212}♫ㅤcurrentlyㅤlisteningㅤto...}$$
 
 <p align="center">
