@@ -48,7 +48,7 @@ $${\color{#8b2020}───────ㅤ୨୧ㅤ───────}$$
 $${\color{#ba1212}readㅤthese!}$$
 
 <details>
-<summary>🍄‍🟫 byi</summary>
+<summary>🎀 byi</summary>
 
 $${\color{#999999}I'mㅤdemi-pansexualㅤandㅤgoㅤbyㅤshe/theyㅤpronouns.}$$
 
@@ -79,7 +79,7 @@ $${\color{#8b2020}───────ㅤ୨୧ㅤ───────}$$
 <br>
 
 <details>
-<summary>🥨 dni</summary>
+<summary>🕸️ dni</summary>
 
 $${\color{#999999}BasicㅤDNIㅤcriteria.}$$
 
@@ -106,7 +106,7 @@ $${\color{#8b2020}───────ㅤ୨୧ㅤ───────}$$
 <br>
 
 <details>
-<summary>🦔 other</summary>
+<summary>🛟 other</summary>
 
 $${\color{#999999}discordㅤ:ㅤruffledram}$$
 
