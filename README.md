@@ -1,4 +1,3 @@
-
 <p align="center">
 <img src="https://64.media.tumblr.com/7e97d71a803f4df1d2354303b3eaba84/83da786bc6469444-dc/s500x750/200571c63dc0789d41713ec281212e2ed643dfae.pnj" width="90%" alt="opening decoration">
 </p>
@@ -47,8 +46,8 @@ $${\color{#8b2020}───────ㅤ୨୧ㅤ───────}$$
 
 $${\color{#ba1212}readㅤthese!}$$
 
-<details>
-<summary>🎀 byi</summary>
+<details align="center">
+<summary align="center">🎀 byi</summary>
 
 $${\color{#999999}I'mㅤdemi-pansexualㅤandㅤgoㅤbyㅤshe/theyㅤpronouns.}$$
 
@@ -78,8 +77,8 @@ $${\color{#8b2020}───────ㅤ୨୧ㅤ───────}$$
 
 <br>
 
-<details>
-<summary>🕸️ dni</summary>
+<details align="center">
+<summary align="center">🕸️ dni</summary>
 
 $${\color{#999999}BasicㅤDNIㅤcriteria.}$$
 
@@ -105,9 +104,9 @@ $${\color{#8b2020}───────ㅤ୨୧ㅤ───────}$$
 
 <br>
 
-<details>
-<summary>🛟 other</summary>
-
+<details align="center">
+<summary align="center">🛟 other</summary>
+  
 $${\color{#999999}discordㅤ:ㅤruffledram}$$
 
 <p>
@@ -138,8 +137,6 @@ $${\color{#ba1212}♫ㅤcurrentlyㅤlisteningㅤto...}$$
 
 $${\color{#8b2020}♡ㅤ───────ㅤ୨୧ㅤ───────ㅤ♡}$$
 
-<!-- CREDITS -->
-
 <p align="center">
   <sub>
     graphics by
@@ -149,8 +146,6 @@ $${\color{#8b2020}♡ㅤ───────ㅤ୨୧ㅤ───────�
     <a href="https://www.tumblr.com/doveyevsky/809890641191518208/graphic-fyozai-gifs-join-our-discord"><b>@doveyevsky</b></a>
   </sub>
 </p>
-
-<!-- CLOSING BORDER -->
 
 <p align="center">
 <img src="https://64.media.tumblr.com/11936107441b28e47f364761a7256516/83da786bc6469444-87/s500x750/9b9f117dd834f44564b6845522539c989d876028.pnj" width="90%" alt="closing decoration">
