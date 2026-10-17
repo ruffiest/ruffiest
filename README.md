@@ -8,15 +8,15 @@
 <img src="https://64.media.tumblr.com/b49aed428b774d076aaf08c5811884f1/83da786bc6469444-22/s500x750/3a96bfb9bb286c8a2157d6f8e5e2c0a5b5ef4fad.pnj" width="500" alt="Dazai">
 </p>
 
-$${\color{#BA1212}Hello,}ㅤ{\color{#C0C0C0}im}ㅤ{\color{#E05252}Ruffy!}$$
+$${\color{#BA1212}Hello,}ㅤ{\color{#C0C0C0}im}ㅤ{\color{#E05252}Ruffy}ㅤ{\color{#C0C0C0}or}ㅤ{\color{#BA1212}Dazai}ㅤ{\color{#C0C0C0}!}$$
 
-$${\color{#C97882}sixteen,}ㅤ{\color{#999999}any}ㅤ{\color{#BA1212}pronouns}ㅤ{\color{#C0C0C0}but}ㅤ{\color{#E05252}she}ㅤ{\color{#777777}/}ㅤ{\color{#C97882}they}ㅤ{\color{#999999}preferred.}$$
+$${\color{#C97882}sixteen,}ㅤ{\color{#999999}any}ㅤ{\color{#BA1212}pronouns}ㅤ{\color{#C0C0C0}but}ㅤ{\color{#E05252}he}ㅤ{\color{#777777}/}ㅤ{\color{#C97882}they}ㅤ{\color{#999999}preferred.}$$
 
 $${\color{#E05252}im}ㅤ{\color{#C0C0C0}in}ㅤ{\color{#BA1212}many}ㅤ{\color{#C97882}fandoms}ㅤ{\color{#999999}!}$$
 
 $${\color{#8B2020}───────}ㅤ{\color{#E05252}୨୧}ㅤ{\color{#8B2020}───────}$$
 
-$${\color{#BA1212}click}ㅤ{\color{#999999}the}ㅤ{\color{#E05252}little}ㅤ{\color{#C97882}dazzys}ㅤ{\color{#C0C0C0}!}$$
+$${\color{#BA1212}click}ㅤ{\color{#999999}the}ㅤ{\color{#E05252}little}ㅤ{\color{#C97882}mes}ㅤ{\color{#C0C0C0}!}$$
 
 <p align="center">
 
