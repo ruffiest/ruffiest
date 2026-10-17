@@ -24,8 +24,8 @@ $${\color{#BA1212}click}ㅤ{\color{#999999}the}ㅤ{\color{#E05252}little}ㅤ{\co
   <img src="https://64.media.tumblr.com/cb14aea646c215cc1b31d61e64f689a0/83da786bc6469444-26/s250x400/e964e3d8f53784044193869f6738cad7aa76e151.pnj" width="95" alt="Atabook">
 </a>
 
-<a href="https://github.com/ruffledram">
-  <img src="https://64.media.tumblr.com/c1d063b96ca2afd3b3b956a2bfd0f1c1/83da786bc6469444-af/s250x400/e95d017172ae2eb25c1a59140fb9e34e4161cec2.pnj" width="95" alt="Alt GitHub">
+<a href="https://github.com/rvffled">
+  <img src="https://64.media.tumblr.com/c1d063b96ca2afd3b3b956a2bfd0f1c1/83da786bc6469444-af/s250x400/e95d017172ae2eb25c1a59140fb9e34e4161cec2.pnj" width="95" alt="Main GitHub">
 </a>
 
 </p>
@@ -34,32 +34,9 @@ $${\color{#BA1212}click}ㅤ{\color{#999999}the}ㅤ{\color{#E05252}little}ㅤ{\co
 <sub>
   <a href="https://ruffledram.atabook.org/">ata</a>
  　♡　
-  <a href="https://github.com/ruffledram">alt</a>
+  <a href="https://github.com/rvffled">main</a>
 </sub>
 </p>
-
-<details align="center">
-<summary align="center">🛟 $\color{#999999}{OTHER...}$</summary>
-
-$${\color{#C97882}discord}ㅤ{\color{#C0C0C0}:}ㅤ{\color{#BA1212}ruffledram}$$
-
-<p>
-  $\color{#E05252}{alt}$ $\color{#C0C0C0}{github}$ $\color{#999999}{:}$
-  <a href="https://github.com/ruffledram">@ruffledram</a>
-</p>
-
-<p>
-  $\color{#BA1212}{dr}$ $\color{#C97882}{alt}$ $\color{#999999}{:}$
-  <a href="https://github.com/pinkguardian">@pinkguardian</a>
-</p>
-
-<p>
-  $\color{#C97882}{guestbook}$ $\color{#999999}{:}$
-  <a href="https://ruffledram.atabook.org/">新book</a>
-</p>
-
-</details>
-
 
 $${\color{#8B2020}───────}ㅤ{\color{#E05252}୨୧}ㅤ{\color{#8B2020}───────}$$
 
