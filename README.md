@@ -35,13 +35,7 @@ $${\color{#BA1212}click}ㅤ{\color{#999999}the}ㅤ{\color{#E05252}little}ㅤ{\co
 </p>
 
 <p align="center">
-<sub>
-  <a href="https://ruffledram.atabook.org/">ata</a>
- 　♡　
-  <a href="https://github.com/ruffledram">sth alt</a>
- 　♡　
-  <a href="https://github.com/pinkguardian">dr alt</a>
-</sub>
+$${\color{#BA1212}𝗔𝗧𝗔}\qquad\qquad{\color{#BA1212}𝗦𝗧𝗛\;𝗔𝗟𝗧}\qquad\qquad{\color{#BA1212}𝗗𝗥\;𝗔𝗟𝗧}$$
 </p>
 
 $${\color{#8B2020}───────}ㅤ{\color{#E05252}୨୧}ㅤ{\color{#8B2020}───────}$$
