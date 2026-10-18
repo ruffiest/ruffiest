@@ -8,6 +8,10 @@
 
 <br>
 
+![](https://komarev.com/ghpvc/?username=ruffledram&style=flat-square&label=mafia+lackeys&color=ba1212)
+
+<br>
+
 $${\color{#BA1212}Hello,}ㅤ{\color{#C0C0C0}im}ㅤ{\color{#E05252}Ruffy}ㅤ{\color{#C0C0C0}or}ㅤ{\color{#BA1212}Dazai}ㅤ{\color{#C0C0C0}!}$$
 
 
@@ -18,8 +22,6 @@ $${\color{#E05252}im}ㅤ{\color{#C0C0C0}in}ㅤ{\color{#BA1212}many}ㅤ{\color{#C
 $${\color{#8B2020}───────}ㅤ{\color{#E05252}୨୧}ㅤ{\color{#8B2020}───────}$$
 
 $${\color{#BA1212}click}ㅤ{\color{#999999}the}ㅤ{\color{#E05252}little}ㅤ{\color{#C97882}mes}ㅤ{\color{#C0C0C0}!}$$
-
-![](https://komarev.com/ghpvc/?username=ruffledram&style=flat-square&label=mafia+lackeys&color=ba1212)
 
 <p align="center">
 
