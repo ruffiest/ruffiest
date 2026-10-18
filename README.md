@@ -10,7 +10,9 @@
 
 <br>
 
+<p align="center">
 ![](https://komarev.com/ghpvc/?username=ruffledram&style=flat-square&label=mafia+lackeys&color=ba1212)
+</p>
 
 <br>
 
