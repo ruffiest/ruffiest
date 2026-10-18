@@ -5,11 +5,11 @@
 
 <p align="center">
 <img src="https://64.media.tumblr.com/b49aed428b774d076aaf08c5811884f1/83da786bc6469444-22/s500x750/3a96bfb9bb286c8a2157d6f8e5e2c0a5b5ef4fad.pnj" width="550" alt="Dazai">
-</p>
+
 
 
 ![](https://komarev.com/ghpvc/?username=ruffledram&style=flat-square&label=mafia+lackeys&color=ba1212)
-
+</p>
 
 $${\color{#BA1212}Hello,}ㅤ{\color{#C0C0C0}im}ㅤ{\color{#E05252}Ruffy}ㅤ{\color{#C0C0C0}or}ㅤ{\color{#BA1212}Dazai}ㅤ{\color{#C0C0C0}!}$$
 
@@ -23,8 +23,6 @@ $${\color{#8B2020}───────}ㅤ{\color{#E05252}୨୧}ㅤ{\color{#8B
 $${\color{#BA1212}click}ㅤ{\color{#999999}the}ㅤ{\color{#E05252}little}ㅤ{\color{#C97882}mes}ㅤ{\color{#C0C0C0}!}$$
 
 <p align="center">
-
-![](https://komarev.com/ghpvc/?username=ruffledram&style=flat-square&label=mafia+lackeys&color=ba1212)
 
 <a href="https://ruffledram.atabook.org/">
   <img src="https://64.media.tumblr.com/cb14aea646c215cc1b31d61e64f689a0/83da786bc6469444-26/s250x400/e964e3d8f53784044193869f6738cad7aa76e151.pnj" width="100" alt="Atabook">
