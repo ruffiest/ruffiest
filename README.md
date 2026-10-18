@@ -1,4 +1,3 @@
-
 <p align="center">
 <img src="https://64.media.tumblr.com/7e97d71a803f4df1d2354303b3eaba84/83da786bc6469444-dc/s500x750/200571c63dc0789d41713ec281212e2ed643dfae.pnj" width="90%" alt="opening decoration">
 </p>
@@ -51,6 +50,7 @@ $${\color{#BA1212}read}ㅤ{\color{#C97882}these!}$$
 <details align="center">
 <summary align="center">🎀 $\color{#BA1212}{BYI}$</summary>
 
+
 $${\color{#BA1212}I'm}ㅤ{\color{#E05252}a}ㅤ{\color{#C97882}Dazai}ㅤ{\color{#C0C0C0}fictkin!}$$
 
 $${\color{#E05252}Doubles}ㅤ{\color{#BA1212}please}ㅤ{\color{#C97882}IWC.}$$
@@ -86,6 +86,7 @@ $${\color{#8B2020}───────}ㅤ{\color{#E05252}୨୧}ㅤ{\color{#8B
 <details align="center">
 <summary align="center">🕸️ $\color{#8B2020}{DNI}$</summary>
 
+
 $${\color{#BA1212}Basic}ㅤ{\color{#C0C0C0}DNI}ㅤ{\color{#C97882}criteria.}$$
 
 $${\color{#E05252}FleetEbony}ㅤ{\color{#999999}shippers.}$$
@@ -112,6 +113,7 @@ $${\color{#8B2020}───────}ㅤ{\color{#E05252}୨୧}ㅤ{\color{#8B
 
 <details align="center">
 <summary align="center">🛟 $\color{#999999}{OTHER...}$</summary>
+
 
 $${\color{#C97882}discord}ㅤ{\color{#C0C0C0}:}ㅤ{\color{#BA1212}ruffledram}$$
 
