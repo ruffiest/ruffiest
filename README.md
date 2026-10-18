@@ -132,8 +132,9 @@ $${\color{#E05252}♫}ㅤ{\color{#BA1212}currently}ㅤ{\color{#C0C0C0}listening}
 
 <p align="center">
 <a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31seofcbs3nhcviqd3wzjugyq3ce&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false&amp;background_color=ba1212&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;bar_color=2e93ff&amp;bar_color_cover=false" alt="Spotify currently listening">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31seofcbs3nhcviqd3wzjugyq3ce&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true&amp;background_color=ba1212&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;bar_color=ba1212&amp;bar_color_cover=false" alt="Spotify currently listening">
 </a>
+
 </p>
 
 $${\color{#8B2020}ㅤ───────}ㅤ{\color{#E05252}୨୧}ㅤ{\color{#8B2020}───────ㅤ}$$
