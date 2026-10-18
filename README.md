@@ -19,9 +19,9 @@ $${\color{#8B2020}───────}ㅤ{\color{#E05252}୨୧}ㅤ{\color{#8B
 
 $${\color{#BA1212}click}ㅤ{\color{#999999}the}ㅤ{\color{#E05252}little}ㅤ{\color{#C97882}mes}ㅤ{\color{#C0C0C0}!}$$
 
-
-![](https://komarev.com/ghpvc/?username=ruffledram&label=mafia+lackeys&color=ba1212)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ruffiest&amp;label=mafia+lackeys&amp;color=ba1212" alt="mafia lackeys">
+</p>
 
 <p align="center">
 
@@ -37,7 +37,6 @@ $${\color{#BA1212}click}ㅤ{\color{#999999}the}ㅤ{\color{#E05252}little}ㅤ{\co
   <img src="https://64.media.tumblr.com/616a502b07dc3a3103aef557c604b996/83da786bc6469444-28/s1280x1920/1fb83b7fe0efc6c79de28a474821604347533ab9.png" width="100" alt="DR alt">
 </a>
 
-</p>
 
 <p align="center">
 $${\color{#BA1212}𝗔𝗧𝗔}\qquad\qquad{\color{#BA1212}𝗦𝗧𝗛\;𝗔𝗟𝗧}\qquad\qquad{\color{#BA1212}𝗗𝗥\;𝗔𝗟𝗧}$$
