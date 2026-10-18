@@ -20,7 +20,7 @@ $${\color{#8B2020}───────}ㅤ{\color{#E05252}୨୧}ㅤ{\color{#8B
 $${\color{#BA1212}click}ㅤ{\color{#999999}the}ㅤ{\color{#E05252}little}ㅤ{\color{#C97882}mes}ㅤ{\color{#C0C0C0}!}$$
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruffiest&label=mafia+lackeys&amp;color=ba1212" alt="mafia lackeys">
+  <img src="https://komarev.com/ghpvc/?username=ruffledram&label=mafia+lackeys&color=ba1212">
 </p>
 
 <p align="center">
