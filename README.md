@@ -8,7 +8,7 @@
 </p>
 
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=ruffledram&style=flat-square&label=mafia+lackeys&color=ba1212)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=ruffledram&style=flat-square&label=mafia+lackeys&color=ba1212)
 
 
 $${\color{#BA1212}Hello,}ㅤ{\color{#C0C0C0}im}ㅤ{\color{#E05252}Ruffy}ㅤ{\color{#C0C0C0}or}ㅤ{\color{#BA1212}Dazai}ㅤ{\color{#C0C0C0}!}$$
