@@ -100,10 +100,6 @@ $${\color{#BA1212}Mirrorship/selfcest}ㅤ{\color{#C97882}ship}ㅤ{\color{#999999
 
 $${\color{#E05252}Problematic}ㅤ{\color{#C0C0C0}old}ㅤ{\color{#BA1212}friends.}$$
 
-$${\color{#BA1212}Petra,}ㅤ{\color{#C97882}stay}ㅤ{\color{#999999}tf}ㅤ{\color{#E05252}away}ㅤ{\color{#C0C0C0}from}ㅤ{\color{#BA1212}us,}$$
-
-$${\color{#C97882}you}ㅤ{\color{#BA1212}jealous,}ㅤ{\color{#999999}racist,}ㅤ{\color{#E05252}slur-slinging}ㅤ{\color{#C0C0C0}freakazoid.}$$
-
 $${\color{#C0C0C0}Anyone}ㅤ{\color{#E05252}else}ㅤ{\color{#999999}not}ㅤ{\color{#BA1212}listed}ㅤ{\color{#C97882}here,}ㅤ{\color{#E05252}int}ㅤ{\color{#C0C0C0}pls!}$$
 
 $${\color{#8B2020}───────}ㅤ{\color{#E05252}୨୧}ㅤ{\color{#8B2020}───────}$$
