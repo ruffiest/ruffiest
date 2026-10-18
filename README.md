@@ -24,6 +24,8 @@ $${\color{#BA1212}click}ㅤ{\color{#999999}the}ㅤ{\color{#E05252}little}ㅤ{\co
 
 <p align="center">
 
+![](https://komarev.com/ghpvc/?username=ruffledram&style=flat-square&label=mafia+lackeys&color=ba1212)
+
 <a href="https://ruffledram.atabook.org/">
   <img src="https://64.media.tumblr.com/cb14aea646c215cc1b31d61e64f689a0/83da786bc6469444-26/s250x400/e964e3d8f53784044193869f6738cad7aa76e151.pnj" width="100" alt="Atabook">
 </a>
